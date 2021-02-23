@@ -1,0 +1,9 @@
+C:\Users\Lucas\source\repos\WebApplication2\Domain\bin\Debug\netcoreapp3.1\Api.Domain.deps.json
+C:\Users\Lucas\source\repos\WebApplication2\Domain\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\Lucas\source\repos\WebApplication2\Domain\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Users\Lucas\source\repos\WebApplication2\Domain\obj\Debug\netcoreapp3.1\Api.Domain.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\WebApplication2\Domain\obj\Debug\netcoreapp3.1\Api.Domain.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\WebApplication2\Domain\obj\Debug\netcoreapp3.1\Api.Domain.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\WebApplication2\Domain\obj\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\Lucas\source\repos\WebApplication2\Domain\obj\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Users\Lucas\source\repos\WebApplication2\Domain\obj\Debug\netcoreapp3.1\Api.Domain.csproj.CoreCompileInputs.cache

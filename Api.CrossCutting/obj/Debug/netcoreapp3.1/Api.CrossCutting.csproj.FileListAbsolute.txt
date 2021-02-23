@@ -1,0 +1,16 @@
+C:\Users\Lucas\source\repos\WebApplication2\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.CrossCutting.deps.json
+C:\Users\Lucas\source\repos\WebApplication2\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.CrossCutting.dll
+C:\Users\Lucas\source\repos\WebApplication2\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.CrossCutting.pdb
+C:\Users\Lucas\source\repos\WebApplication2\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\WebApplication2\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\WebApplication2\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\WebApplication2\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.dll
+C:\Users\Lucas\source\repos\WebApplication2\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.pdb
+C:\Users\Lucas\source\repos\WebApplication2\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\Lucas\source\repos\WebApplication2\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Users\Lucas\source\repos\WebApplication2\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.csproj.CopyComplete
+C:\Users\Lucas\source\repos\WebApplication2\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.Data.dll
+C:\Users\Lucas\source\repos\WebApplication2\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.Service.dll
+C:\Users\Lucas\source\repos\WebApplication2\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.Service.pdb
+C:\Users\Lucas\source\repos\WebApplication2\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.Data.pdb
+C:\Users\Lucas\source\repos\WebApplication2\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.csproj.CoreCompileInputs.cache

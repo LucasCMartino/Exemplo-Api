@@ -1,0 +1,15 @@
+C:\Users\Lucas\source\repos\WebApplication2\Data\bin\Debug\netcoreapp3.1\Api.Data.deps.json
+C:\Users\Lucas\source\repos\WebApplication2\Data\bin\Debug\netcoreapp3.1\Api.Data.dll
+C:\Users\Lucas\source\repos\WebApplication2\Data\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\Lucas\source\repos\WebApplication2\Data\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Users\Lucas\source\repos\WebApplication2\Data\obj\Debug\netcoreapp3.1\Api.Data.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\WebApplication2\Data\obj\Debug\netcoreapp3.1\Api.Data.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\WebApplication2\Data\obj\Debug\netcoreapp3.1\Api.Data.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\WebApplication2\Data\obj\Debug\netcoreapp3.1\Api.Data.csproj.CopyComplete
+C:\Users\Lucas\source\repos\WebApplication2\Data\bin\Debug\netcoreapp3.1\Api.Data.pdb
+C:\Users\Lucas\source\repos\WebApplication2\Data\obj\Debug\netcoreapp3.1\Api.Data.dll
+C:\Users\Lucas\source\repos\WebApplication2\Data\obj\Debug\netcoreapp3.1\Api.Data.pdb
+C:\Users\Lucas\source\repos\WebApplication2\Data\bin\Debug\netcoreapp3.1\Api.Data.runtimeconfig.json
+C:\Users\Lucas\source\repos\WebApplication2\Data\bin\Debug\netcoreapp3.1\Api.Data.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\WebApplication2\Data\obj\Debug\netcoreapp3.1\Api.Data.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\WebApplication2\Data\obj\Debug\netcoreapp3.1\Api.Data.csproj.CoreCompileInputs.cache

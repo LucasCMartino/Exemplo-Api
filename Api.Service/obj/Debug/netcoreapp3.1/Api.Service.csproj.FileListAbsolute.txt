@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\WebApplication2\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\WebApplication2\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\WebApplication2\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\WebApplication2\Api.Service\bin\Debug\netcoreapp3.1\Api.Service.deps.json
+C:\Users\Lucas\source\repos\WebApplication2\Api.Service\bin\Debug\netcoreapp3.1\Api.Service.dll
+C:\Users\Lucas\source\repos\WebApplication2\Api.Service\bin\Debug\netcoreapp3.1\Api.Service.pdb
+C:\Users\Lucas\source\repos\WebApplication2\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\WebApplication2\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.dll
+C:\Users\Lucas\source\repos\WebApplication2\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.pdb
+C:\Users\Lucas\source\repos\WebApplication2\Api.Service\bin\Debug\netcoreapp3.1\Api.Data.dll
+C:\Users\Lucas\source\repos\WebApplication2\Api.Service\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\Lucas\source\repos\WebApplication2\Api.Service\bin\Debug\netcoreapp3.1\Api.Data.pdb
+C:\Users\Lucas\source\repos\WebApplication2\Api.Service\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Users\Lucas\source\repos\WebApplication2\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.csproj.CopyComplete
